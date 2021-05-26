@@ -27,7 +27,6 @@ To call the Cloud Asset API, you need to configure either a user account or a se
 
     **gcloud organizations add-iam-policy-binding <Your Org ID> --member='user:your_email@your_company.com' --role='roles/cloudasset.viewer'**
 
-Since this is demo were only calling out how to configure a user account.
 
 ## Setting permissions
 
